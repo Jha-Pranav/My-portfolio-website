@@ -1,9 +1,3 @@
-/*
-    Theme Name: Laura
-    Theme URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
 
 body {
   line-height: 1.4;
@@ -158,6 +152,15 @@ Responsive media queries
   font-size: 24px;
   margin-bottom: 50px;
 }
+
+ .intro .intro-subtitle {
+    font-size: 2.5rem;
+  }
+
+.intro .text-slider-items {
+  display: none;
+}
+
 
 .title-text {
   padding: 0px 25px 0px 0px;
